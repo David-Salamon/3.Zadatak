@@ -1,0 +1,7 @@
+C:\Users\DAVID\Desktop\prog_koktel\prog_koktel\bin\Debug\prog_koktel.exe.config
+C:\Users\DAVID\Desktop\prog_koktel\prog_koktel\bin\Debug\prog_koktel.exe
+C:\Users\DAVID\Desktop\prog_koktel\prog_koktel\bin\Debug\prog_koktel.pdb
+C:\Users\DAVID\Desktop\prog_koktel\prog_koktel\obj\Debug\prog_koktel.csprojAssemblyReference.cache
+C:\Users\DAVID\Desktop\prog_koktel\prog_koktel\obj\Debug\prog_koktel.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\Desktop\prog_koktel\prog_koktel\obj\Debug\prog_koktel.exe
+C:\Users\DAVID\Desktop\prog_koktel\prog_koktel\obj\Debug\prog_koktel.pdb
